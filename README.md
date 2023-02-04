@@ -1,6 +1,6 @@
 # Crowdfunding exploration
 
-Organize and analyze a database of 1,000 projects to uncover any hidden trends.
+using Excel organize and analyze a database of 1,000 projects to uncover any hidden trends.
 
 
 ## Roadmap
